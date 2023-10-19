@@ -1,0 +1,22 @@
+.menu {
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    background-color: #f0f0f0;
+   }
+   
+   .menu-item {
+    padding: 5px 10px;
+    cursor: pointer;
+   }
+   
+   .sub-menu {
+    display: none;
+    padding: 10px;
+    background-color: #e0e0e0;
+   }
+   
+   .sub-menu-item {
+    padding: 5px 10px;
+    cursor: pointer;
+   }
